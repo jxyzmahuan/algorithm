@@ -1,6 +1,5 @@
 package com.pegasus;
 
-import java.util.concurrent.locks.LockSupport;
 
 class Foo {
     volatile int number = 0;
