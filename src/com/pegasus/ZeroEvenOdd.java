@@ -47,6 +47,7 @@ public class ZeroEvenOdd {
     }
 
     public static void main(String[] args) {
+        System.out.println("dada ");
 //        ZeroEvenOdd zeroEvenOdd = new ZeroEvenOdd(10);
 //        Thread thread1 = new Thread(new Runnable() {
 //            @Override
